@@ -1,0 +1,49 @@
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+venv/
+env/
+ENV/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# ── Jupyter ───────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── IDEs ──────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── OS ────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Temp ──────────────────────────────────────────────────────
+*.tmp
+*.log
+
+# ── Data (not tracked — too large / raw source files) ─────────
+data/
+
+# ── Docs (only dictionary.md is tracked) ──────────────────────
+docs/context.md
+docs/DATA_FLOW.md
+docs/FILE_INVENTORY.md
+docs/INDEX.md
+docs/PROJECT_SUMMARY.md
+docs/guides/
+docs/sprints/
+
+# ── Outputs ───────────────────────────────────────────────────
+outputs/
+
+# ── Frontend ──────────────────────────────────────────────────
+frontend/.env.local
+frontend/.env*.local
+frontend/node_modules/
+frontend/.next/
+frontend/out/
