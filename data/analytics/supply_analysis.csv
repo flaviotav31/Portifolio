@@ -1,0 +1,185 @@
+supply_id,credential,field_of_study_or_cip,is_ai_related,n_per_year,income_year1,income_year5,income_avg_5yr,inc_diff,inc_growth,attractiveness_score,attractiveness_category
+91,Diploma,Computer science,1,130,52300.0,67400.0,60540.0,15100.0,0.29,52.88,Moderate
+98,Diploma,Computer engineering,1,48,61000.0,77100.0,69660.0,16100.0,0.26,51.13,Moderate
+40,Diploma,Computer software and media applications,1,30,37800.0,65000.0,50320.0,27200.0,0.72,48.04,Moderate
+2,Certificate,Computer/information technology administration and management,1,30,40200.0,56300.0,48960.0,16100.0,0.4,47.58,Moderate
+90,Diploma,"Computer and information sciences and support services, general",1,50,63800.0,77100.0,69800.0,13300.0,0.21,46.22,Moderate
+51,Diploma,"Engineering-related technologies 49,000 51,900 51,100 57,300 23 Computer engineering technologies/technicians",1,84,47800.0,59000.0,53600.0,11200.0,0.23,43.42,Moderate
+1,Certificate,Computer software and media applications,1,32,45500.0,56300.0,48260.0,10800.0,0.24,41.38,Moderate
+42,Diploma,Civil engineering technology/technician,1,102,60200.0,70100.0,64720.0,9900.0,0.16,40.67,Moderate
+92,Diploma,Computer/information technology administration and management,1,20,63200.0,73100.0,66020.0,9900.0,0.16,39.23,Low
+35,Diploma,"Radio, television and digital communication",1,144,37000.0,43200.0,40300.0,6200.0,0.17,34.22,Low
+50,Diploma,Construction engineering technology/technician,1,30,68900.0,74900.0,69800.0,6000.0,0.09,33.76,Low
+41,Diploma,"Computer/information technology administration and management 45,900 53,400 54,800 45,100 -800 -2% 23 Culinary arts and related services",1,146,31300.0,34400.0,33780.0,3100.0,0.1,25.02,Low
+89,Diploma,"Radio, television and digital communication 40,500 38,900 30 Public relations, advertising and applied communication",1,28,62100.0,61900.0,63480.0,-200.0,0.0,22.54,Low
+39,Diploma,"Computer and information sciences and support services, general",1,22,48000.0,43900.0,48820.0,-4100.0,-0.09,17.34,Low
+62,Diploma,Stationary energy sources installer and operator,0,110,131400.0,153600.0,145000.0,22200.0,0.17,69.54,Moderate
+144,Diploma,Accounting and related services,0,646,47900.0,70200.0,59200.0,22300.0,0.47,65.33,Moderate
+61,Diploma,Heavy/industrial equipment maintenance technologies,0,58,78600.0,104700.0,94600.0,26100.0,0.33,63.96,Moderate
+94,Diploma,"Teacher education and professional development, specific levels and methods",0,866,52300.0,64200.0,59880.0,11900.0,0.23,63.65,Moderate
+95,Diploma,"Labour Market Outcomes of Graduates of Alberta Publicly Funded Post-Secondary Institutions, 2024 35 Classification: Public Change from year one to year five 1 2 3 4 5 N per year Teacher education and professional development, specific subject areas",0,626,53500.0,67700.0,62040.0,14200.0,0.27,62.85,Moderate
+151,Diploma,"PROFESSIONAL BACHELOR’S DEGREE Law (LLB, JD, BCL)",0,196,59300.0,90700.0,79520.0,31400.0,0.53,61.95,Moderate
+142,Diploma,"Registered nursing, nursing administration, nursing research and clinical nursing 72,600 74,000 76,500 76,200 78,400 5,800 8% 1,312 Business/commerce, general",0,446,48500.0,63600.0,56500.0,15100.0,0.31,59.78,Moderate
+182,Doctoral Degree,"Electrical, electronics and communications engineering",0,28,66200.0,89000.0,79540.0,22800.0,0.34,58.07,Moderate
+181,Doctoral Degree,"Chemical engineering 93,700 20 Civil engineering",0,22,82300.0,103400.0,90260.0,21100.0,0.26,57.63,Moderate
+143,Diploma,"Business administration, management and operations",0,632,51200.0,62800.0,56640.0,11600.0,0.23,57.13,Moderate
+156,Diploma,"City/urban, community and regional planning",0,28,64700.0,85000.0,74180.0,20300.0,0.31,56.23,Moderate
+173,Diploma,Public policy analysis,0,30,64200.0,82700.0,73560.0,18500.0,0.29,55.06,Moderate
+146,Diploma,Finance and financial management services,0,146,51600.0,70500.0,62540.0,18900.0,0.37,54.94,Moderate
+123,Diploma,"Physics 39,100 59,700 25 Psychology, general",0,408,35600.0,46700.0,42300.0,11100.0,0.31,54.01,Moderate
+12,Certificate,"Plumbing and related water supply services 33,900 43,600 9,700 29% 30 Heavy/industrial equipment maintenance technologies",0,74,54100.0,73300.0,62020.0,19200.0,0.35,53.1,Moderate
+44,Diploma,"Labour Market Outcomes of Graduates of Alberta Publicly Funded Post-Secondary Institutions, 2024 33 Classification: Public Change from year one to year five 1 2 3 4 5 N per year Electromechanical and instrumentation and maintenance technologies/technicians",0,136,55900.0,71400.0,63120.0,15500.0,0.28,52.91,Moderate
+103,Diploma,"Mining and mineral engineering 66,600 79,900 86,500 88,000 25 Petroleum engineering",0,52,89600.0,107000.0,94160.0,17400.0,0.19,52.67,Moderate
+149,Diploma,Marketing,0,152,46200.0,64200.0,53720.0,18000.0,0.39,52.03,Moderate
+129,Diploma,"Labour Market Outcomes of Graduates of Alberta Publicly Funded Post-Secondary Institutions, 2024 36 Classification: Public Change from year one to year five 1 2 3 4 5 N per year Economics",0,152,42400.0,61900.0,53040.0,19500.0,0.46,51.8,Moderate
+59,Diploma,Criminal justice and corrections,0,242,39000.0,53300.0,46780.0,14300.0,0.37,51.72,Moderate
+113,Diploma,"Biology, general",0,272,36100.0,53500.0,44380.0,17400.0,0.48,51.59,Moderate
+7,Certificate,Quality control and safety technologies/technicians,0,30,52500.0,78200.0,60380.0,25700.0,0.49,51.51,Moderate
+122,Diploma,Geological and Earth sciences/geosciences,0,146,42900.0,61900.0,51860.0,19000.0,0.44,51.25,Moderate
+119,Diploma,Health and physical education/fitness,0,224,37100.0,57300.0,46440.0,20200.0,0.54,51.19,Moderate
+155,Diploma,"Architecture (BArch, BA, BS, BSc, March, MA, MS, MSc, PhD)",0,30,49300.0,66900.0,58720.0,17600.0,0.36,50.94,Moderate
+112,Diploma,"Liberal arts and sciences, general studies and humanities",0,146,41000.0,58300.0,49520.0,17300.0,0.42,50.45,Moderate
+10,Certificate,Fire protection,0,52,42800.0,65100.0,54680.0,22300.0,0.52,50.06,Moderate
+183,Doctoral Degree,"Biology, general",0,24,39500.0,75000.0,56280.0,35500.0,0.9,49.96,Moderate
+148,Diploma,International business/trade/commerce,0,54,46500.0,62900.0,54080.0,16400.0,0.35,49.9,Moderate
+115,Diploma,"Ecology, evolution, systematics and population biology",0,60,40000.0,59100.0,53580.0,19100.0,0.48,49.86,Moderate
+132,Diploma,Political science and government,0,146,36100.0,56100.0,47620.0,20000.0,0.55,49.79,Moderate
+63,Diploma,Vehicle maintenance and repair technologies,0,72,45800.0,60300.0,51840.0,14500.0,0.32,49.54,Moderate
+104,Diploma,Surveying engineering,0,26,60400.0,75300.0,68920.0,14900.0,0.25,49.37,Moderate
+177,Diploma,Public health,0,54,56400.0,70600.0,66600.0,14200.0,0.25,49.21,Moderate
+101,Diploma,Materials engineering,0,24,76700.0,92400.0,82660.0,15700.0,0.2,49.06,Moderate
+133,Diploma,Sociology,0,150,38000.0,49300.0,45060.0,11300.0,0.3,49.0,Moderate
+147,Diploma,Human resources management and services,0,176,50400.0,63000.0,56680.0,12600.0,0.25,48.61,Moderate
+128,Diploma,Criminology,0,58,39400.0,60500.0,49900.0,21100.0,0.54,48.55,Moderate
+85,Diploma,"BACHELOR’S DEGREE Agricultural business and management 58,600 20 Animal sciences 44,300 46,500 55,600 20 Natural resources conservation and research",0,48,45800.0,63800.0,49920.0,18000.0,0.39,48.32,Moderate
+184,Doctoral Degree,Chemistry,0,28,27100.0,60300.0,49800.0,33200.0,1.23,47.82,Moderate
+102,Diploma,Mechanical engineering,0,238,66900.0,78400.0,71640.0,11500.0,0.17,47.2,Moderate
+176,Diploma,"Medical scientist (MS, MSc, PhD)",0,26,39800.0,59200.0,47820.0,19400.0,0.49,47.09,Moderate
+78,Diploma,Finance and financial management services,0,86,43700.0,56000.0,49060.0,12300.0,0.28,46.9,Moderate
+134,Diploma,"Urban studies/affairs 47,500 59,700 30 Design and applied arts",0,88,36700.0,48400.0,42860.0,11700.0,0.32,46.81,Moderate
+88,Diploma,Journalism,0,34,33500.0,56200.0,46060.0,22700.0,0.68,46.67,Moderate
+125,Diploma,"Security and protective services, other",0,28,110800.0,117000.0,115300.0,6200.0,0.06,46.41,Moderate
+127,Diploma,Anthropology,0,96,35000.0,46600.0,41040.0,11600.0,0.33,46.37,Moderate
+150,Diploma,History,0,106,31300.0,45500.0,39400.0,14200.0,0.45,46.03,Moderate
+180,Diploma,"Business administration, management and operations",0,358,110100.0,109400.0,109440.0,-700.0,-0.01,46.01,Moderate
+139,Diploma,"Health services/allied health/health sciences, general",0,22,34800.0,56400.0,44920.0,21600.0,0.62,46.0,Moderate
+110,Diploma,"English language and literature, general",0,152,28200.0,42700.0,35160.0,14500.0,0.51,45.63,Moderate
+49,Diploma,Mining and petroleum technologies/technicians,0,96,57900.0,70800.0,61480.0,12900.0,0.22,45.42,Moderate
+36,Diploma,"Public relations, advertising and applied communication",0,34,35800.0,49600.0,42280.0,13800.0,0.39,45.36,Moderate
+46,Diploma,Industrial production technologies/technicians,0,24,69800.0,83100.0,73740.0,13300.0,0.19,44.98,Moderate
+79,Diploma,Hospitality administration/management,0,106,29900.0,44200.0,36120.0,14300.0,0.48,44.9,Moderate
+57,Diploma,Health and physical education/fitness,0,68,31200.0,46000.0,37580.0,14800.0,0.47,44.53,Moderate
+118,Diploma,"Parks, recreation and leisure studies",0,30,46800.0,58400.0,54220.0,11600.0,0.25,44.39,Moderate
+99,Diploma,"Electrical, electronics and communications engineering",0,152,63900.0,74700.0,68540.0,10800.0,0.17,44.14,Moderate
+109,Diploma,"Legal professions and studies, other",0,30,41500.0,52200.0,49960.0,10700.0,0.26,43.92,Moderate
+111,Diploma,English rhetoric and composition/writing studies,0,30,39700.0,50900.0,44160.0,11200.0,0.28,43.92,Moderate
+107,Diploma,"Linguistic, comparative and related language studies and services",0,24,33300.0,45000.0,38000.0,11700.0,0.35,43.66,Moderate
+34,Diploma,Journalism,0,40,31400.0,41200.0,36380.0,9800.0,0.31,43.47,Moderate
+100,Diploma,Environmental/environmental health engineering,0,24,67400.0,79700.0,72080.0,12300.0,0.18,43.41,Moderate
+171,Diploma,"Psychology, general",0,24,50100.0,62100.0,54440.0,12000.0,0.24,43.33,Moderate
+168,Diploma,"Biology, general",0,20,56000.0,67600.0,63120.0,11600.0,0.21,43.23,Moderate
+135,Diploma,Drama/theatre arts and stagecraft,0,40,27000.0,45100.0,35660.0,18100.0,0.67,43.22,Moderate
+137,Diploma,Fine arts and art studies,0,116,26000.0,35600.0,30060.0,9600.0,0.37,43.04,Moderate
+138,Diploma,Music,0,36,30000.0,39100.0,34520.0,9100.0,0.3,42.73,Moderate
+145,Diploma,Business/managerial economics,0,34,54700.0,66000.0,58980.0,11300.0,0.21,42.12,Moderate
+64,Diploma,Boilermaking/boilermaker,0,62,78700.0,89000.0,79940.0,10300.0,0.13,42.0,Moderate
+6,Certificate,Environmental control technologies/technicians,0,40,53300.0,64300.0,57860.0,11000.0,0.21,41.88,Moderate
+174,Diploma,Social work,0,108,63100.0,73200.0,67580.0,10100.0,0.16,41.8,Moderate
+179,Diploma,"Registered nursing, nursing administration, nursing research and clinical nursing",0,212,93100.0,97200.0,95220.0,4100.0,0.04,41.73,Moderate
+108,Diploma,"Foods, nutrition and related services 42,000 43,100 47,800 28,300 -13,700 -33% 28 Human development, family studies and related services",0,74,41600.0,51700.0,44900.0,10100.0,0.24,41.19,Moderate
+116,Diploma,"Neurobiology and neurosciences 27,200 20 Mathematics",0,32,35200.0,43900.0,44780.0,8700.0,0.25,41.18,Moderate
+66,Diploma,"Drama/theatre arts and stagecraft 24,200 30,400 31,600 27 Music 26,900 20 Communication disorders sciences and services",0,26,58300.0,69100.0,62180.0,10800.0,0.19,41.04,Moderate
+20,Certificate,Allied health and medical assisting services,0,534,39400.0,44800.0,42500.0,5400.0,0.14,40.99,Moderate
+15,Certificate,Precision metal working,0,60,38000.0,47600.0,42320.0,9600.0,0.25,40.98,Moderate
+97,Diploma,Civil engineering,0,158,69400.0,77900.0,72880.0,8500.0,0.12,40.78,Moderate
+56,Diploma,"Liberal arts and sciences, general studies and humanities 27,600 33,400 31,700 27,000 30 Library science, other",0,24,18000.0,34700.0,29340.0,16700.0,0.93,40.67,Moderate
+43,Diploma,Electrical and electronic engineering technologies/technicians,0,126,57100.0,66500.0,62480.0,9400.0,0.16,40.45,Moderate
+164,Diploma,Civil engineering,0,62,83700.0,91500.0,86780.0,7800.0,0.09,40.36,Moderate
+4,Certificate,Culinary arts and related services,0,46,32600.0,41100.0,38260.0,8500.0,0.26,40.26,Moderate
+70,Diploma,Clinical/medical laboratory science/research and allied professions,0,84,60100.0,69500.0,64640.0,9400.0,0.16,40.23,Moderate
+53,Diploma,"Engineering technologies and engineering-related fields, other",0,54,44600.0,54600.0,48960.0,10000.0,0.22,40.13,Moderate
+106,Diploma,Engineering-related fields,0,30,79100.0,87500.0,81240.0,8400.0,0.11,39.71,Low
+18,Certificate,Dental support services and allied professions,0,88,42900.0,51900.0,47680.0,9000.0,0.21,39.47,Low
+76,Diploma,Accounting and related services,0,304,36900.0,43700.0,40900.0,6800.0,0.18,39.12,Low
+23,Certificate,Health aides/attendants/orderlies,0,610,31500.0,35700.0,33580.0,4200.0,0.13,38.67,Low
+160,Diploma,"Educational assessment, evaluation and research",0,150,90900.0,93300.0,93360.0,2400.0,0.03,38.66,Low
+162,Diploma,"Teacher education and professional development, specific subject areas",0,26,89900.0,94200.0,94480.0,4300.0,0.05,38.18,Low
+153,Diploma,"Pharmacy, pharmaceutical sciences and administration",0,92,103500.0,100400.0,103480.0,-3100.0,-0.03,37.81,Low
+67,Diploma,Dental support services and allied professions,0,30,43100.0,51800.0,48860.0,8700.0,0.2,37.54,Low
+74,Diploma,"Practical nursing, vocational nursing and nursing assistants",0,714,45000.0,47400.0,46260.0,2400.0,0.05,37.44,Low
+69,Diploma,"Allied health diagnostic, intervention and treatment professions",0,250,74500.0,77900.0,76680.0,3400.0,0.05,37.22,Low
+48,Diploma,Mechanical engineering related technologies/technicians,0,88,51300.0,59300.0,55500.0,8000.0,0.16,37.17,Low
+117,Diploma,"Natural sciences 54,600 30 Nutrition sciences",0,42,70200.0,77300.0,74360.0,7100.0,0.1,36.61,Low
+11,Certificate,"Carpentry/carpenter 56,800 54,800 25 Electrical and power transmission installers",0,74,41200.0,49300.0,42820.0,8100.0,0.2,36.47,Low
+87,Diploma,"Ethnic, cultural minority, gender, and group studies 19,300 20,500 30,400 21,600 2,300 12% 30 Communication and media studies",0,106,40500.0,47900.0,45540.0,7400.0,0.18,36.15,Low
+165,Diploma,"Electrical, electronics and communications engineering",0,30,71300.0,78300.0,73280.0,7000.0,0.1,35.96,Low
+126,Diploma,Social work,0,134,54900.0,62000.0,57060.0,7100.0,0.13,35.77,Low
+22,Certificate,Clinical/medical laboratory science/research and allied professions,0,44,38700.0,46000.0,43780.0,7300.0,0.19,35.11,Low
+152,Diploma,Medicine (MD),0,62,61000.0,68900.0,59920.0,7900.0,0.13,35.09,Low
+157,Diploma,"Education, general",0,70,100200.0,97400.0,97000.0,-2800.0,-0.03,35.06,Low
+140,Diploma,"Dental support services and allied professions 68,200 20 Mental and social health services and allied professions",0,30,48100.0,55900.0,52180.0,7800.0,0.16,34.69,Low
+45,Diploma,Environmental control technologies/technicians,0,56,43800.0,51400.0,47120.0,7600.0,0.17,34.54,Low
+17,Certificate,Ground transportation,0,40,48700.0,56700.0,50900.0,8000.0,0.16,34.48,Low
+82,Diploma,"Specialized sales, merchandising and marketing operations",0,32,30500.0,37200.0,33900.0,6700.0,0.22,34.43,Low
+96,Diploma,Chemical engineering,0,140,78900.0,82100.0,77820.0,3200.0,0.04,34.07,Low
+81,Diploma,Marketing,0,88,36700.0,43300.0,40380.0,6600.0,0.18,33.96,Low
+86,Diploma,Natural resources management and policy,0,54,59000.0,65600.0,62780.0,6600.0,0.11,33.9,Low
+27,Certificate,Business operations support and assistant services,0,364,33400.0,37900.0,35900.0,4500.0,0.13,33.79,Low
+83,Diploma,Construction management,0,24,63200.0,69700.0,66840.0,6500.0,0.1,33.6,Low
+3,Certificate,Cosmetology and related personal grooming services,0,26,13300.0,17200.0,9820.0,3900.0,0.29,32.99,Low
+14,Certificate,Vehicle maintenance and repair technologies,0,72,34300.0,40000.0,39240.0,5700.0,0.17,32.19,Low
+65,Diploma,Design and applied arts,0,74,35700.0,41700.0,38240.0,6000.0,0.17,31.9,Low
+178,Diploma,Rehabilitation and therapeutic professions,0,126,70100.0,72800.0,71160.0,2700.0,0.04,31.45,Low
+121,Diploma,Chemistry,0,54,36600.0,42500.0,41020.0,5900.0,0.16,31.39,Low
+5,Certificate,Teaching assistants/aides,0,130,26600.0,31400.0,29220.0,4800.0,0.18,31.08,Low
+159,Diploma,Educational/instructional media design,0,28,88600.0,87900.0,88120.0,-700.0,-0.01,31.03,Low
+166,Diploma,Mechanical engineering,0,34,78200.0,81100.0,76100.0,2900.0,0.04,31.03,Low
+16,Certificate,"Labour Market Outcomes of Graduates of Alberta Publicly Funded Post-Secondary Institutions, 2024 32 Classification: Public Change from year one to year five 1 2 3 4 5 N per year Woodworking",0,24,33000.0,38900.0,36060.0,5900.0,0.18,30.99,Low
+80,Diploma,Human resources management and services,0,108,47600.0,53000.0,50140.0,5400.0,0.11,30.78,Low
+163,Diploma,Chemical engineering,0,26,94000.0,83400.0,86480.0,-10600.0,-0.11,30.42,Low
+24,Certificate,"Registered nursing, nursing administration, nursing research and clinical nursing",0,62,81800.0,80800.0,83700.0,-1000.0,-0.01,30.29,Low
+120,Diploma,"Philosophy, logic and ethics 47,900 52,000 50,900 27 Physical sciences, general",0,30,50800.0,56100.0,56720.0,5300.0,0.1,30.25,Low
+141,Diploma,Public health,0,28,64800.0,68600.0,68360.0,3800.0,0.06,30.22,Low
+124,Diploma,Criminal justice and corrections,0,40,60600.0,64600.0,63720.0,4000.0,0.07,29.9,Low
+75,Diploma,"Business administration, management and operations",0,208,43600.0,47500.0,45860.0,3900.0,0.09,29.62,Low
+130,Diploma,Geography and cartography,0,52,40700.0,45800.0,44000.0,5100.0,0.13,29.37,Low
+154,Diploma,"Veterinary medicine (DVM) 80,400 82,800 83,500 81,700 28 MASTER’S DEGREE Natural resources conservation and research",0,40,54000.0,59000.0,55880.0,5000.0,0.09,29.19,Low
+55,Diploma,Legal support services,0,122,41600.0,46000.0,43880.0,4400.0,0.11,28.95,Low
+167,Diploma,Library science and administration,0,34,49000.0,53800.0,51540.0,4800.0,0.1,28.56,Low
+175,Diploma,Communication disorders sciences and services,0,30,71200.0,73200.0,71360.0,2000.0,0.03,28.3,Low
+172,Diploma,"Clinical, counselling and applied psychology",0,90,66000.0,68300.0,66780.0,2300.0,0.03,28.11,Low
+21,Certificate,"Allied health diagnostic, intervention and treatment professions",0,22,44500.0,49600.0,48120.0,5100.0,0.11,28.1,Low
+13,Certificate,Stationary energy sources installer and operator,0,234,55300.0,57200.0,55720.0,1900.0,0.03,27.62,Low
+161,Diploma,"Teacher education and professional development, specific levels and methods",0,56,80500.0,66200.0,76220.0,-14300.0,-0.18,27.58,Low
+32,Diploma,Natural resources management and policy,0,42,42700.0,47400.0,44420.0,4700.0,0.11,27.29,Low
+73,Diploma,"Registered nursing, nursing administration, nursing research and clinical nursing",0,34,77700.0,77600.0,76200.0,-100.0,0.0,27.06,Low
+158,Diploma,"Labour Market Outcomes of Graduates of Alberta Publicly Funded Post-Secondary Institutions, 2024 37 Classification: Public Change from year one to year five 1 2 3 4 5 N per year Educational administration and supervision",0,44,87100.0,84800.0,75460.0,-2300.0,-0.03,27.04,Low
+68,Diploma,Allied health and medical assisting services,0,200,39600.0,42800.0,41400.0,3200.0,0.08,26.89,Low
+52,Diploma,Drafting/design engineering technologies/technicians,0,86,51300.0,55100.0,50820.0,3800.0,0.07,26.51,Low
+33,Diploma,"Forestry 50,900 67,800 30 Architectural sciences and technology",0,118,44400.0,47900.0,45520.0,3500.0,0.08,26.42,Low
+169,Diploma,"Multidisciplinary/interdisciplinary studies, other",0,86,67800.0,67700.0,66380.0,-100.0,0.0,24.88,Low
+38,Diploma,Graphic communications,0,22,32500.0,36700.0,32460.0,4200.0,0.13,24.7,Low
+105,Diploma,Mining and petroleum technologies/technicians,0,34,90000.0,66300.0,67840.0,-23700.0,-0.26,24.18,Low
+71,Diploma,"Labour Market Outcomes of Graduates of Alberta Publicly Funded Post-Secondary Institutions, 2024 34 Classification: Public Change from year one to year five 1 2 3 4 5 N per year Mental and social health services and allied professions 32,700 39,700 37,800 5,100 16% 23 Ophthalmic and optometric support services and allied professions",0,72,38100.0,41300.0,41020.0,3200.0,0.08,23.81,Low
+31,Diploma,Natural resources conservation and research,0,54,47700.0,50400.0,46600.0,2700.0,0.06,23.32,Low
+170,Diploma,Geological and Earth sciences/geosciences,0,40,66800.0,61200.0,64660.0,-5600.0,-0.08,23.22,Low
+19,Certificate,Health and medical administrative services,0,386,34900.0,35600.0,34800.0,700.0,0.02,22.91,Low
+58,Diploma,Physical science technologies/technicians,0,42,45200.0,47500.0,44500.0,2300.0,0.05,21.31,Low
+47,Diploma,Quality control and safety technologies/technicians,0,28,61900.0,59700.0,58480.0,-2200.0,-0.04,20.81,Low
+8,Certificate,"Engineering-related technologies 47,300 51,200 41,400 52,500 5,200 11% 28 Drafting/design engineering technologies/technicians",0,38,38700.0,41300.0,37440.0,2600.0,0.07,20.79,Low
+60,Diploma,Social work,0,200,42300.0,42700.0,43560.0,400.0,0.01,20.64,Low
+9,Certificate,"Human development, family studies and related services",0,108,22500.0,24700.0,23520.0,2200.0,0.1,20.6,Low
+84,Diploma,"Business, management, marketing and related support services, other",0,24,43900.0,45300.0,46640.0,1400.0,0.03,19.64,Low
+93,Diploma,"Education, general",0,34,41200.0,42700.0,42580.0,1500.0,0.04,19.47,Low
+25,Certificate,"Business administration, management and operations",0,70,41300.0,42000.0,41780.0,700.0,0.02,18.02,Low
+28,Certificate,Human resources management and services,0,48,48000.0,46300.0,47840.0,-1700.0,-0.04,17.61,Low
+37,Diploma,"Communications technology/technician 31,000 39,200 31,600 42,900 23 Audiovisual communications technologies/technicians",0,44,38800.0,40200.0,35580.0,1400.0,0.04,17.29,Low
+136,Diploma,Film/video and photographic arts,0,38,36700.0,37800.0,36760.0,1100.0,0.03,16.55,Low
+30,Diploma,Applied horticulture/horticultural business services,0,28,47700.0,46900.0,44860.0,-800.0,-0.02,16.12,Low
+77,Diploma,Business operations support and assistant services,0,56,41000.0,40300.0,42960.0,-700.0,-0.02,16.11,Low
+54,Diploma,"Human development, family studies and related services",0,152,35900.0,34400.0,35260.0,-1500.0,-0.04,15.67,Low
+29,Diploma,Agricultural production operations,0,34,41600.0,39800.0,43100.0,-1800.0,-0.04,15.65,Low
+26,Certificate,Accounting and related services,0,98,36900.0,36200.0,34700.0,-700.0,-0.02,14.23,Low
+131,Diploma,International relations and national security studies,0,26,44300.0,27500.0,37620.0,-16800.0,-0.38,13.57,Low
+114,Diploma,"Cell/cellular biology and anatomical sciences 36,300 57,200 20,900 58% 30 Zoology/animal biology",0,26,30100.0,29200.0,32080.0,-900.0,-0.03,11.66,Low
+72,Diploma,Somatic bodywork and related therapeutic services,0,22,33200.0,24500.0,30820.0,-8700.0,-0.26,11.14,Low

@@ -1,0 +1,12 @@
+time_id,year,year_offset,period_label
+1,2023,0,Short-term (2023-2025)
+2,2024,1,Short-term (2023-2025)
+3,2025,2,Short-term (2023-2025)
+4,2026,3,Mid-term (2026-2028)
+5,2027,4,Mid-term (2026-2028)
+6,2028,5,Mid-term (2026-2028)
+7,2029,6,Long-term (2029-2033)
+8,2030,7,Long-term (2029-2033)
+9,2031,8,Long-term (2029-2033)
+10,2032,9,Long-term (2029-2033)
+11,2033,10,Long-term (2029-2033)
