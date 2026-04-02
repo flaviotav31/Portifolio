@@ -15,7 +15,7 @@ export default function Home() {
             Currently focused on AI labour market analytics in Alberta, Canada.
           </p>
           <div className="flex gap-4 pt-2">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer"
+            <a href="https://github.com/flaviotav31" target="_blank" rel="noopener noreferrer"
               className="flex items-center gap-2 text-gray-400 hover:text-white transition-colors text-sm">
               <GitBranch size={16} /> GitHub
             </a>
