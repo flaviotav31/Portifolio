@@ -22,8 +22,8 @@ export default function GapTrendChart({ data }: { data: GapTrend[] }) {
             itemStyle={{ color: "#A78BFA" }}
             formatter={(v: unknown) => [(v as number).toFixed(1), "Gap Index"]}
           />
-          <ReferenceLine y={60} stroke="#EF4444" strokeDasharray="4 4" label={{ value: "Critical", fill: "#EF4444", fontSize: 11 }} />
-          <ReferenceLine y={30} stroke="#F59E0B" strokeDasharray="4 4" label={{ value: "Moderate", fill: "#F59E0B", fontSize: 11 }} />
+          <ReferenceLine y={60} stroke="#EF4444" strokeDasharray="4 4" label={{ value: "Critical", fill: "#EF4444", fontSize: 11, position: "insideTopRight" }} />
+          <ReferenceLine y={30} stroke="#F59E0B" strokeDasharray="4 4" label={{ value: "Moderate", fill: "#F59E0B", fontSize: 11, position: "insideBottomRight" }} />
           <Line
             type="monotone"
             dataKey="avg_talent_gap_index"
